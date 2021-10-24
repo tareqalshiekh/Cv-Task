@@ -1,0 +1,58 @@
+.img
+{width: 150px;
+height: 150px;
+border-radius: 5px 15px;
+}
+.imgP
+{
+    padding-left: 90px;
+    
+}
+.about
+{
+    font-size: 45;
+    color: white;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.navbar
+{
+    background-color:rebeccapurple;
+}
+.main
+{
+    color: white;
+}
+.bd{
+    color: white;
+    padding-left: 30px;
+}
+.name
+{
+    color:rebeccapurple ;
+    padding-top: 80px;
+    font-style: oblique;
+}
+.jun{
+    color: rgba(229, 229, 222, 56.219);
+}
+.container
+{
+    padding-top: 70px;
+    
+}
+.ed{
+    padding-top: 60px;
+}
+.black
+{
+    color: black;
+}
+.PAD
+{
+    margin-TOP:270PX ;
+}
+.test
+{
+    margin-top: 70px;
+}
